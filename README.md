@@ -14,10 +14,10 @@ A sophisticated multi-agent system that uses Qwen3-Max to generate comprehensive
 
 ```bash
 # Install required packages
-pip install requests
+pip install requirements.txt
 
-# Set your Qwen API key
-export QWEN_API_KEY='your-api-key-here'
+# Create a .env file in root directory, set your QWEN api key
+QWEN_API_KEY = "Your API Key"
 ```
 
 ## Usage
@@ -290,3 +290,4 @@ For issues and questions:
 - JSON output format
 - Multi-agent conversation system
 - Qwen3-Max integration
+
