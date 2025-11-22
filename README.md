@@ -1,4 +1,7 @@
-![logo](images/Startup_Adviser.png)
+<p align="center">
+  <img src="images/Startup_Adviser.png" alt="Startup Advisor Logo" width="250" style="border-radius: 50%;">
+</p>
+
 # Startup Advisor - Multi-Agent Business Planning System
 
 A sophisticated multi-agent system that uses Qwen3-Max to generate comprehensive business plans through collaborative AI advisors.
@@ -291,6 +294,7 @@ For issues and questions:
 - JSON output format
 - Multi-agent conversation system
 - Qwen3-Max integration
+
 
 
 
